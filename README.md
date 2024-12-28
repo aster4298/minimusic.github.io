@@ -1,4 +1,7 @@
 # minimusic.github.io
+
+Disclaimer: This project is made with the help of Tutorial Link Given below and also I Change some features and UI . 
+
  A lightweight and interactive project to create and play music using simple code. This project demonstrates the fundamentals of sound generation, rhythm, and melody programming.
  
 Features:
